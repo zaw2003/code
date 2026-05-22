@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import finalbot 
+import bot 
 
 if __name__ == "__main__":
-    finalbot.start()
+    bot.start()
